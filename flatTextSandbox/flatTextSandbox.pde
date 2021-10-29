@@ -22,7 +22,7 @@ titleWidth = displayWidth*3/5;
 titleHeight = displayHeight*1/10; 
 
 //Lay out text space and typographical Features
-rect(titleX, titleY, titleWidth, titleHeight);
+//rect(titleX, titleY, titleWidth, titleHeight);
 fill(blue); //Ink, hexidecimal copied from Color Selector
 textAlign(CENTER, CENTER);
 //Values: [LEFT | CENTER | RIGHT] & [TOP | CENTER | BOTTOM | BASELINE]
